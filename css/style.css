@@ -624,7 +624,7 @@ article#tag .all-tags ul li span:before {
 @media screen and (max-width: 500px) {
   .article ul,
   .article ol {
-    font-size: 0.875rem;
+    font-size: 0.7rem;
   }
   .article figure {
     font-size: 13px;
@@ -783,7 +783,7 @@ article#tag .all-tags ul li span:before {
   line-height: 1.75;
   padding-bottom: 8px;
   font-weight: 500;
-  font-size: 0.875rem;
+  font-size: 0.7rem;
   color: var(--color-list);
 }
 .md .footer .header i {
@@ -853,12 +853,12 @@ article#tag .all-tags ul li span:before {
   -webkit-line-clamp: 1;
 }
 .md .footer .related_posts .body .vlts-rps .excerpt {
-  font-size: 0.875rem;
+  font-size: 0.7rem;
   color: var(--color-meta);
   -webkit-line-clamp: 3;
 }
 .md .footer .copyright blockquote p {
-  font-size: 0.875rem;
+  font-size: 0.7rem;
   margin: 0.25em 0;
 }
 .md .footer .copyright blockquote p a {
@@ -893,7 +893,7 @@ article .readmore {
   display: -moz-box /* OLD - Firefox 19- (buggy but mostly works) */;
   display: block;
   margin-top: 24px;
-  font-size: 0.875rem;
+  font-size: 0.7rem;
 }
 .copyright.license {
   background: var(--color-copyright-bkg);
@@ -1923,7 +1923,7 @@ article#comments p[ct] {
 article#comments p[cst] {
   margin-top: 1em;
   margin-bottom: 1em;
-  font-size: 0.875rem;
+  font-size: 0.7rem;
 }
 article#comments #load-btns,
 article#comments #loading-comments {
@@ -2216,7 +2216,7 @@ img.lazyload:not(.placeholder).loaded {
   width: 1rem;
 }
 #l_main .article .prev-next >a p.content {
-  font-size: 0.875rem;
+  font-size: 0.7rem;
   font-weight: 400;
   text-align: justify;
   word-break: break-all;
@@ -2320,10 +2320,10 @@ img.lazyload:not(.placeholder).loaded {
   -ms-user-select: none;
 }
 .meta-v3 time {
-  font-size: 0.875rem;
+  font-size: 0.7rem;
 }
 .meta-v3 .category-link {
-  font-size: 0.875rem;
+  font-size: 0.7rem;
   color: var(--color-meta);
   -webkit-font-smoothing: auto;
   -moz-osx-font-smoothing: auto;
@@ -2678,7 +2678,7 @@ img.lazyload:not(.placeholder).loaded {
   max-height: 200vh;
   overflow: auto;
   text-align: justify;
-  font-size: 0.875rem;
+  font-size: 0.7rem;
   max-width: 100%;
 }
 @media screen and (max-width: 768px) {
@@ -2740,7 +2740,7 @@ img.lazyload:not(.placeholder).loaded {
   border-top-right-radius: 8px;
   padding: calc(16px - 2px);
   font-weight: bold;
-  font-size: 0.875rem;
+  font-size: 0.7rem;
   padding-bottom: 0;
 }
 .widget header,
@@ -2813,7 +2813,7 @@ img.lazyload:not(.placeholder).loaded {
   -ms-flex: none 0;
   flex: none 0;
   font-weight: normal;
-  font-size: 0.875rem;
+  font-size: 0.7rem;
   color: rgba(68,68,68,0.7);
 }
 .widget >.content ul.entry a.active,
@@ -3018,7 +3018,7 @@ img.lazyload:not(.placeholder).loaded {
 }
 .widget.text .content,
 .widget.text .content p {
-  font-size: 0.875rem;
+  font-size: 0.7rem;
   word-break: break-all;
 }
 .widget.text .content a {
@@ -3040,7 +3040,7 @@ img.lazyload:not(.placeholder).loaded {
   padding: 8px 0;
 }
 .widget.list .content a {
-  font-size: 0.875rem;
+  font-size: 0.7rem;
   font-weight: bold;
   line-height: 1.5;
   padding-top: 6px;
@@ -3190,7 +3190,7 @@ img.lazyload:not(.placeholder).loaded {
   margin-bottom: 8px;
 }
 .widget.related_posts .content h3 {
-  font-size: 0.875rem;
+  font-size: 0.7rem;
   font-weight: bold;
   margin: 0;
 }
@@ -3435,7 +3435,7 @@ img.lazyload:not(.placeholder).loaded {
 #l_side .toc-wrapper a {
   padding-left: 8px;
   color: var(--color-meta);
-  font-size: 0.875rem;
+  font-size: 0.7rem;
   display: -webkit-box /* OLD - iOS 6-, Safari 3.1-6 */;
   display: -moz-box /* OLD - Firefox 19- (buggy but mostly works) */;
   display: inline-block;
@@ -3627,7 +3627,7 @@ img.lazyload:not(.placeholder).loaded {
 }
 .article div.btns b,
 .md div.btns b {
-  font-size: 0.875rem;
+  font-size: 0.7rem;
 }
 .article div.btns.wide>a,
 .md div.btns.wide>a {
@@ -4488,7 +4488,7 @@ details summary {
   border-radius: 4px;
   -webkit-border-radius: 4px;
   color: rgba(68,68,68,0.7);
-  font-size: 0.875rem;
+  font-size: 0.7rem;
   font-weight: bold;
   position: relative;
   line-height: normal;
@@ -5462,7 +5462,7 @@ p.p.right {
 }
 span.p.small,
 p.p.small {
-  font-size: 0.875rem;
+  font-size: 0.7rem;
 }
 span.p.large,
 p.p.large {
@@ -5711,7 +5711,7 @@ div.tabs ul.nav-tabs li.tab a {
   -webkit-border-radius: 4px 4px 0 0;
   padding: 8px;
   text-align: center;
-  font-size: 0.875rem;
+  font-size: 0.7rem;
   line-height: inherit;
   font-weight: bold;
   color: var(--color-meta);
@@ -5839,7 +5839,7 @@ div.timenode .body {
 div.timenode .meta {
   position: relative;
   color: var(--color-meta);
-  font-size: 0.875rem;
+  font-size: 0.7rem;
   line-height: 32px;
   height: 32px;
 }
